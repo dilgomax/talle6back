@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="dropdown">
-        <button class="bt" ><a href="../index.html#contacto">CONTACTO</a></button>
+        <button class="bt" ><a href="index.html#contacto">CONTACTO</a></button>
         </div>
     </header>
 <div class="wrapper">
